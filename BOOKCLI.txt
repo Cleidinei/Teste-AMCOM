@@ -1,0 +1,6 @@
+01  ARQ-CLI-REG.
+           03 COD-CLI             PIC  9(007).
+           03 CNPJ-CLI            PIC  9(014).
+           03 RZ-SOCIAL           PIC  X(040).
+           03 LATI-CLIENTE        PIC S9(003)V9(008).
+           03 LONGI-CLIENTE       PIC S9(003)V9(008).

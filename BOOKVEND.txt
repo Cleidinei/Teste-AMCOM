@@ -1,0 +1,6 @@
+      01  ARQ-VEND-REG.
+           03 COD-VEND             PIC  9(003).
+           03 CPF-VEND             PIC  9(011).
+           03 NOME-VEND            PIC  X(040).
+           03 LATI-VENDEDOR        PIC S9(003)V9(008).
+           03 LONGI-VENDEDOR       PIC S9(003)V9(008).
